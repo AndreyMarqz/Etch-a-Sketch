@@ -5,7 +5,7 @@ A browser-based interactive sketch pad inspired by the classic mechanical drawin
 <img width="1917" height="868" alt="image" src="https://github.com/user-attachments/assets/b094576d-3332-4785-9c56-eded8c2bcc77" />
 
 ## 🔗 Live Demo
-[**Click here to play!**]((https://andreymarqz.github.io/Etch-a-Sketch/))
+[**Click here to play!**](https://andreymarqz.github.io/Etch-a-Sketch/)
 
 ## ✨ Features
 
